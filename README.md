@@ -1,7 +1,9 @@
 # blackboard-grails
 
 ## Description
-This grails application is a complete course management system.
+This grails( Groovy on Rails) application is a complete course management system.
+It uses different databases for students and subjects.
+To render all the content on HTML I have used Bootstrap to give a personal style.
 The project makes use of the Model-View-Controller (MVC) architecture.
 
 ## Users
